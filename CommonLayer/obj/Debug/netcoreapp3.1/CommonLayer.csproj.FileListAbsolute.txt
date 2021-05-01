@@ -1,0 +1,9 @@
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\venky\source\repos\CustomeStage\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb

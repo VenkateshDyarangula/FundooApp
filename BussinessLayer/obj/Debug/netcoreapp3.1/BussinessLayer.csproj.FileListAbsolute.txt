@@ -1,0 +1,14 @@
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\venky\source\repos\CustomeStage\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CopyComplete
